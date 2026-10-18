@@ -1,4 +1,9 @@
-# VELORA — Disclosed Purchasing Agent & Luxury E-Commerce Catalogue
+<p align="center">
+  <img src="./velora-logo.png" alt="VELORA — Luxury, Within Reach." width="280" />
+</p>
+
+<h1 align="center">VELORA</h1>
+<p align="center"><em>LUXURY, WITHIN REACH.</em></p>
 
 VELORA is an independent online product-sourcing and disclosed purchasing-agent business connecting international clients with products from its supplier network through a personalized WhatsApp concierge experience.
 
