@@ -354,6 +354,10 @@ for row in raw_data:
         "numericPrice": price,
         "currency": "USD",
         "priceFormatted": f"${price} USD",
+        "priceFinal": True,
+        "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+        "stockStatus": "Limited Goods",
+        "availability": "Limited Stock (First-Come, First-Served)",
         "name": name,
         "group": group,
         "image": img,
@@ -363,13 +367,23 @@ for row in raw_data:
         "notes": notes,
         "flagged": flagged,
         "flagReason": flag_reason,
-        "status": "Available on Enquiry",
+        "status": "Limited Goods (Available on Enquiry)",
         "approved": True
     })
 
 js_content = "window.VELORA_PRODUCTS = " + json.dumps(products, indent=2) + ";\n"
 
-with open(r"c:\Users\fazsa\OneDrive\Desktop\Velora\products-data.js", "w", encoding="utf-8") as f:
-    f.write(js_content)
+import os
+
+target_paths = [
+    r"c:\Users\fazsa\OneDrive\Desktop\Velora\products-data.js",
+    r"c:\Users\fazsa\OneDrive\Desktop\Velora\stitch_velora_luxury_editorial_e_commerce\stitch_velora_luxury_editorial_e_commerce\velora_luxury_catalogue_personal_shopping_experience\products-data.js"
+]
+
+for p in target_paths:
+    if os.path.exists(os.path.dirname(p)):
+        with open(p, "w", encoding="utf-8") as f:
+            f.write(js_content)
+        print(f"Updated {p}")
 
 print(f"Generated products-data.js successfully with {len(products)} products!")

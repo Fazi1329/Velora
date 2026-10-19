@@ -7,6 +7,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "JBL Charge 5 Waterproof Portable Speaker",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
@@ -23,7 +27,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Sound Series - Preserved exact $150 USD price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -34,6 +38,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "AirPods Pro (2nd Generation Active Noise Cancellation)",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80",
@@ -50,7 +58,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Flagship wireless in-ear audio. Preserved exact $150 USD price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -61,6 +69,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "AirPods Max Wireless Over-Ear Active Noise Cancellation",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
@@ -77,7 +89,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Over-ear studio luxury audio. Preserved exact $200 USD price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -88,6 +100,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 100,
     "currency": "USD",
     "priceFormatted": "$100 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Smart Watch Ultra Precision Navigation & Biometrics",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
@@ -104,7 +120,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Smart Watch - Preserved exact $100 USD price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -115,6 +131,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Designer Streetwear Silhouette Luxury Sneakers",
     "group": "Footwear",
     "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=800&q=80",
@@ -131,7 +151,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Sneakers ($150 USD). Distinguish from Row 48 ($100 USD).",
     "flagged": true,
     "flagReason": "Categorized under Electronics & Accessories in original sheet; flagged for multi-category placement.",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -142,6 +162,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Luxury Fragrance Sourcing Discovery Extrait",
     "group": "Colognes",
     "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80",
@@ -158,7 +182,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Colognes ($200 USD). Distinguish from specific fragrance bottles.",
     "flagged": true,
     "flagReason": "Categorized under Electronics & Accessories in original sheet; linked with Cologne suite.",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -169,6 +193,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Nike Sportswear Tech Fleece Heritage Track Set",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
@@ -185,7 +213,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Sportwears Nike ($150 USD). Distinguish from Athleisure Nike Row 19 ($120 USD).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -196,6 +224,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Uniqlo U Premium Heavyweight Blocktech Set",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=800&q=80",
@@ -211,7 +243,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Uniqlo ($150 USD). Distinguish from Uniquo Row 20 ($120 USD) & Casual Row 41 ($200 USD).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -222,6 +254,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Adidas Originals Trefoil Adicolor Heritage Tracksuit",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?auto=format&fit=crop&w=800&q=80",
@@ -237,7 +273,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Adidas Sportwears ($150 USD). Distinguish from Row 21 ($120 USD).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -248,6 +284,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "A Bathing Ape 1st Camo Shark Athletic Zip Jacket",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80",
@@ -263,7 +303,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Bape Sportwears ($200 USD). Distinguish from Row 22 ($150 USD).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -274,6 +314,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Balenciaga Athletic Tracksuit Oversized Shell",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
@@ -289,7 +333,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Balenciaga Sportwears ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -300,6 +344,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Puma T7 Vintage Heritage Track Collection",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
@@ -315,7 +363,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Puma ($150 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -326,6 +374,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 250,
     "currency": "USD",
     "priceFormatted": "$250 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Prada Linea Rossa Technical Nylon Sport Jacket",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
@@ -341,7 +393,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Flagship high-tier Sportwears Prada ($250 USD). Highest price in sport tier.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -352,6 +404,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Ralph Lauren x Gucci Monogram Heritage Hoodie",
     "group": "Hoodies",
     "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
@@ -367,7 +423,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Listed as RL/Gucci in supplier sheet ($200 USD). Dual-brand reference.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -378,6 +434,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Sp5der Worldwide 555555 Angel Web Hoodie",
     "group": "Hoodies",
     "image": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?auto=format&fit=crop&w=800&q=80",
@@ -393,7 +453,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 1 Spider Hoodie ($150 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -404,6 +464,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Denim Tears The Cotton Wreath Emblem Hoodie",
     "group": "Hoodies",
     "image": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=800&q=80",
@@ -419,7 +483,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Denim Tears ($150 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -430,6 +494,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Lacoste x Prada Re-Edition Technical Zip Hoodie",
     "group": "Hoodies",
     "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
@@ -445,7 +513,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Listed as Lacoste/ Prada in sheet ($200 USD). Dual-brand reference.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -456,6 +524,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 100,
     "currency": "USD",
     "priceFormatted": "$100 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Fear of God Essentials Core Pullover Hoodie",
     "group": "Hoodies",
     "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80",
@@ -471,7 +543,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Essential Hoodie ($100 USD). Entry luxury tier in hoodie collection.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -482,6 +554,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 120,
     "currency": "USD",
     "priceFormatted": "$120 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Nike Dri-FIT Performance Track Athleisure Set",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=800&q=80",
@@ -497,7 +573,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Athleisure Nike Tier ($120 USD). Preserved exact sheet price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -508,6 +584,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 120,
     "currency": "USD",
     "priceFormatted": "$120 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Uniquo Airism Seamless Athleisure Set",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
@@ -523,7 +603,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Spelled 'Uniquo' in original supplier sheet ($120 USD). Flagged for spelling confirmation (Uniqlo variant).",
     "flagged": true,
     "flagReason": "Spelled 'Uniquo' with a 'q' in original sheet. Preserved verbatim with flag for confirmation.",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -534,6 +614,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 120,
     "currency": "USD",
     "priceFormatted": "$120 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Adidas Tiro 24 Technical Athleisure Tracksuit",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?auto=format&fit=crop&w=800&q=80",
@@ -549,7 +633,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Athleisure Adidas Tier ($120 USD). Preserved exact sheet price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -560,6 +644,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "A Bathing Ape College Graphic Athleisure Crew",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80",
@@ -575,7 +663,7 @@ window.VELORA_PRODUCTS = [
     "notes": "BAPE Athleisure Tier ($150 USD). Preserved exact sheet price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -586,6 +674,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Puma Lifestyle & Under Armour Technical Set",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
@@ -601,7 +693,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Combined entry in supplier list: Puma Lifestyle + Under Armour ($150 USD).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -612,6 +704,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Balenciaga Distressed Athleisure Lounge Set",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
@@ -627,7 +723,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Balenciaga Athleisure Tier ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -638,6 +734,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Prada Technical Gabardine Lounge Set",
     "group": "Sportswear",
     "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
@@ -653,7 +753,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Prada Athleisure Tier ($200 USD). Distinguish from Sportwears Row 13 ($250 USD).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -664,6 +764,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Ralph Lauren Purple Label Cable Knit Sweater",
     "group": "Luxury",
     "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80",
@@ -679,7 +783,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Ralph Lauren Designer Collection ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -690,6 +794,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Gucci GG Supreme Classic Jacquard Knit",
     "group": "Luxury",
     "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
@@ -705,7 +813,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Gucci Luxury Designer Collection ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -716,6 +824,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Tommy Hilfiger Archive Colorblock Sailing Jacket",
     "group": "Luxury",
     "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
@@ -731,7 +843,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tommy Hilfiger Designer ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -742,6 +854,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Balenciaga Paris Crest Signature Pullover",
     "group": "Luxury",
     "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
@@ -757,7 +873,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Balenciaga Luxury & Designer ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -768,6 +884,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Lacoste Heritage Piqu\u00e9 Knit Classic Collection",
     "group": "Luxury",
     "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=800&q=80",
@@ -783,7 +903,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Lacoste Luxury Designer ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -794,6 +914,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Prada Milano Triangle Logo Tailored Knit",
     "group": "Luxury",
     "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80",
@@ -809,7 +933,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Prada Luxury & Designer ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -820,6 +944,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Supreme Heavyweight Cross Box Logo Pullover",
     "group": "Streetwear",
     "image": "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&fit=crop&w=800&q=80",
@@ -835,7 +963,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Supreme Streetwear ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -846,6 +974,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Fear of God Mainline Seventh Collection Henley",
     "group": "Streetwear",
     "image": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=800&q=80",
@@ -861,7 +993,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Fear of God Mainline ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -872,6 +1004,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Off-White Industrial Diag Stencil Pullover",
     "group": "Streetwear",
     "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80",
@@ -887,7 +1023,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Off-White Streetwear ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -898,6 +1034,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Essentials Fear of God Heavyweight Knit Capsule",
     "group": "Streetwear",
     "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80",
@@ -913,7 +1053,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Essentials Streetwear Tier ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -924,6 +1064,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "St\u00fcssy 8-Ball Mohair Cardigan / Streetwear",
     "group": "Streetwear",
     "image": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?auto=format&fit=crop&w=800&q=80",
@@ -939,7 +1083,7 @@ window.VELORA_PRODUCTS = [
     "notes": "St\u00fcssy Streetwear ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -950,6 +1094,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Zara Premium Studio Capsule Overcoat",
     "group": "Casual",
     "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
@@ -965,7 +1113,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Zara Premium Collection ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -976,6 +1124,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "ASOS Design White Label Structured Tailoring",
     "group": "Casual",
     "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80",
@@ -991,7 +1143,7 @@ window.VELORA_PRODUCTS = [
     "notes": "ASOS Casual / Lifestyle ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1002,6 +1154,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "H&M Studio Edition Monochromatic Trench",
     "group": "Casual",
     "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=800&q=80",
@@ -1017,7 +1173,7 @@ window.VELORA_PRODUCTS = [
     "notes": "H&M Studio Collection ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1028,6 +1184,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Fashion Nova Luxe Statement Evening Silhouette",
     "group": "Casual",
     "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
@@ -1043,7 +1203,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Fashion Nova Luxe ($200 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1054,6 +1214,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Uniqlo +J Jil Sander Tailored Wool Overcoat",
     "group": "Casual",
     "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
@@ -1069,7 +1233,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Uniqlo Casual Tier ($200 USD). Distinguish from Row 8 ($150 USD) & Row 20 ($120 USD).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1080,6 +1244,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 120,
     "currency": "USD",
     "priceFormatted": "$120 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "JBL Flip 6 Compact Waterproof Bluetooth Speaker",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
@@ -1095,7 +1263,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 2 JBL Speakers ($120 USD). Distinguish from Row 1 ($150 USD).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1106,6 +1274,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "AirPods True Wireless Earbuds with Lightning Case",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80",
@@ -1121,7 +1293,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Standard AirPods ($150 USD). Distinguish from AirPods Pro (Row 2).",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1132,6 +1304,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 100,
     "currency": "USD",
     "priceFormatted": "$100 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Dyson Pure Hot+Cool Air Purifier & Heater Fan",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=800&q=80",
@@ -1147,7 +1323,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Dyson Pure Hot+Cool ($100 USD). Preserved exact supplier price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1158,6 +1334,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 100,
     "currency": "USD",
     "priceFormatted": "$100 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Dyson V11 Cordless Vacuum Cleaner System",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80",
@@ -1173,7 +1353,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Dyson V11 ($100 USD). Preserved exact supplier price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1184,6 +1364,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 100,
     "currency": "USD",
     "priceFormatted": "$100 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Precision Smart Watch Activity & Health Tracker",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80",
@@ -1199,7 +1383,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 2 Smart Watches ($100 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1210,6 +1394,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 100,
     "currency": "USD",
     "priceFormatted": "$100 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Studio Wireless ANC Over-Ear Headphones",
     "group": "Electronics",
     "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
@@ -1225,7 +1413,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Studio Headphones ($100 USD). Preserved exact price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1236,6 +1424,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 100,
     "currency": "USD",
     "priceFormatted": "$100 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Minimalist Urban Runner Sneakers",
     "group": "Footwear",
     "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
@@ -1251,7 +1443,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Tier 2 Sneakers listed under Electronics & Accessories ($100 USD). Distinguish from Row 5 ($150 USD).",
     "flagged": true,
     "flagReason": "Categorized under Electronics in sheet; verify apparel mapping.",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1262,6 +1454,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Sp5der Web Punk Edition Heavyweight Fleece",
     "group": "Hoodies",
     "image": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?auto=format&fit=crop&w=800&q=80",
@@ -1277,7 +1473,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Spider Hoodies listed under Electronics & Accessories in sheet ($150 USD). Distinguish from Row 15.",
     "flagged": true,
     "flagReason": "Categorized under Electronics in original sheet; cross-referenced with Hoodies section.",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1288,6 +1484,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 150,
     "currency": "USD",
     "priceFormatted": "$150 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Maison Alhambra Toscano Leather Eau de Parfum",
     "group": "Colognes",
     "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=800&q=80",
@@ -1304,7 +1504,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Toscano Leather ($150 USD). Preserved exact supplier price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1315,6 +1515,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Emporio Armani Stronger With You Intensely Pour Homme",
     "group": "Colognes",
     "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80",
@@ -1331,7 +1535,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Stronger With You ($200 USD). Preserved exact supplier price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1342,6 +1546,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Chanel Bleu de Chanel Eau de Parfum",
     "group": "Colognes",
     "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=800&q=80",
@@ -1358,7 +1566,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Bleu de Chanel ($200 USD). Preserved exact supplier price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1369,6 +1577,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Valentino Born In Roma Uomo Intense",
     "group": "Colognes",
     "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=80",
@@ -1385,7 +1597,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Valentino Born In Roma ($200 USD). Preserved exact supplier price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1396,6 +1608,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Dior Sauvage Eau de Parfum",
     "group": "Colognes",
     "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=800&q=80",
@@ -1412,7 +1628,7 @@ window.VELORA_PRODUCTS = [
     "notes": "Dior Sauvage ($200 USD). Preserved exact supplier price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   },
   {
@@ -1423,6 +1639,10 @@ window.VELORA_PRODUCTS = [
     "numericPrice": 200,
     "currency": "USD",
     "priceFormatted": "$200 USD",
+    "priceFinal": true,
+    "pricingTerms": "Final Price (Agent cut taken from supplier price)",
+    "stockStatus": "Limited Goods",
+    "availability": "Limited Stock (First-Come, First-Served)",
     "name": "Yves Saint Laurent MYSLF Eau de Parfum",
     "group": "Colognes",
     "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=800&q=80",
@@ -1439,7 +1659,7 @@ window.VELORA_PRODUCTS = [
     "notes": "YSL Myslf ($200 USD). Preserved exact supplier price.",
     "flagged": false,
     "flagReason": "",
-    "status": "Available on Enquiry",
+    "status": "Limited Goods (Available on Enquiry)",
     "approved": true
   }
 ];
